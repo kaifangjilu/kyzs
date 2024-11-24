@@ -1,0 +1,8 @@
+# 这是一个示例 robots.txt 文件
+
+# 允许所有搜索引擎访问所有页面
+User-agent: *
+Disallow: 
+
+# 指定站点地图的路径
+Sitemap: https://kaifangjilu.github.io/kyzs/sitemap.xml
