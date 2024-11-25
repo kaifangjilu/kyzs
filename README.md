@@ -11,6 +11,9 @@
 </blockquote>
 <p>点击这里访问 <a href="https://github.com/kaifangjilu/kyzs">开源煮熟</a>。</p>
 
+<!-- https://github.com/kaifangjilu/kyzs/blob/main/icon.png -->
+  <img alt='popup设置页面' src='https://github.com/kaifangjilu/kyzs/raw/main/icon.png' width='500' />
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
